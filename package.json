@@ -1,0 +1,22 @@
+{
+  "name": "3-column-preview-card-component",
+  "version": "1.0.0",
+  "description": "3-Column Preview Card Component",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KristinaRadosavljevic/3-column-preview-card-component.git"
+  },
+  "author": "Kristina Radosavljevic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KristinaRadosavljevic/3-column-preview-card-component/issues"
+  },
+  "homepage": "https://github.com/KristinaRadosavljevic/3-column-preview-card-component#readme",
+  "dependencies": {
+    "node-sass": "^7.0.3"
+  }
+}
