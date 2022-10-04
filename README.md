@@ -12,7 +12,6 @@ This is a solution to the [3-column preview card component challenge on Frontend
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -30,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [See the code on GitHub]()
-- Live Site URL: [View live site]()
+- Solution URL: [See the code on GitHub](https://github.com/KristinaRadosavljevic/3-column-preview-card-component)
+- Live Site URL: [View live site](https://3-column-preview-card-component-kappa-eight.vercel.app/)
 
 ## My process
 
@@ -39,12 +38,17 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS/Sass
+- Flexbox
 
 ### What I learned
 
+This was another very simple challenge which only gave me some further opportunity to practice what I already know.
+
+One thing I did learn was how to override the `justify-content` property on one of the flex items - [this Stack Overflow thread](https://stackoverflow.com/questions/23621650/how-to-justify-a-single-flexbox-item-override-justify-content) gave me the idea to use `margin-top: auto;` on the buttons to keep them in line when the paragraphs above them are not all the same height.
+
 ### Continued development
 
-### Useful resources
+In the future projects, I would like to focus a bit more on practicing CSS grid and not just flexbox.
 
 ## Author
 
